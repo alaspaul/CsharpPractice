@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\wwwroot\\persons.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\wwwroot\\persons.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\models\\persongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\models\\persongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\views\\shared\\components\\grid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\views\\shared\\components\\grid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|c:\\users\\paul\\source\\repos\\viewcomponentspractice\\viewcomponentspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A288A-70AE-4294-9144-6044D5E064BC}|VIewComponentsPractice\\VIewComponentsPractice.csproj|solutionrelative:viewcomponentspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "VIewComponentsPractice\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-02T13:38:00.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonGridModel.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Models\\PersonGridModel.cs",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Models\\PersonGridModel.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Models\\PersonGridModel.cs",
+              "RelativeToolTip": "VIewComponentsPractice\\Models\\PersonGridModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:44:14.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VIewComponentsPractice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:15:53.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "VIewComponentsPractice\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:17:24.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Models\\Person.cs",
+              "RelativeToolTip": "VIewComponentsPractice\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:43:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "persons.js",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\persons.js",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\wwwroot\\persons.js",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\persons.js",
+              "RelativeToolTip": "VIewComponentsPractice\\wwwroot\\persons.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-02T13:22:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\ViewComponents\\GridViewComponent.cs",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\ViewComponents\\GridViewComponent.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\ViewComponents\\GridViewComponent.cs",
+              "RelativeToolTip": "VIewComponentsPractice\\ViewComponents\\GridViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:25:28.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "RelativeToolTip": "VIewComponentsPractice\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:31:48.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VIewComponentsPractice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:16:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VIewComponentsPractice\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:19:00.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VIewComponentsPractice\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:18:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VIewComponentsPractice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:18:11.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Program.cs",
+              "RelativeDocumentMoniker": "VIewComponentsPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\Program.cs",
+              "RelativeToolTip": "VIewComponentsPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:13:15.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

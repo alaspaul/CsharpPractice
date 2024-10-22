@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|c:\\users\\paul\\source\\repos\\iactionresultpractice\\iactionresultpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|solutionrelative:iactionresultpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|c:\\users\\paul\\source\\repos\\iactionresultpractice\\iactionresultpractice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|solutionrelative:iactionresultpractice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|c:\\users\\paul\\source\\repos\\iactionresultpractice\\iactionresultpractice\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|solutionrelative:iactionresultpractice\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|c:\\users\\paul\\source\\repos\\iactionresultpractice\\iactionresultpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F2C1-A6B9-45E8-AF5C-97C4F96EBCB6}|IActionResultPractice\\IActionResultPractice.csproj|solutionrelative:iactionresultpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "IActionResultPractice\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "IActionResultPractice\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:56:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IActionResultPractice\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\appsettings.Development.json",
+              "RelativeToolTip": "IActionResultPractice\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T09:51:41.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IActionResultPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IActionResultPractice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:33:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\Program.cs",
+              "RelativeDocumentMoniker": "IActionResultPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\Program.cs",
+              "RelativeToolTip": "IActionResultPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:31:55.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+﻿
+@{
+
+    List<Person> persons = (List<Person>)ViewData["persons"];
+    string appTitle = "Views Practice";
+   
+}
+
+
+<!DOCTYPE HTML>
+</<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        <title>
+            @ViewData["appTitle"]
+        </title>
+        <meta charset="utf-8" />
+        <link href="~/StyleSheet.css" rel="stylesheet"/>
+    </head>
+
+    <body>
+        <div class="page-content">
+                <h1> Persons </h1>
+
+               
+            @foreach (var person in ViewBag.persons)
+            {
+                <div class="box float-left w-50">       
+                    <h2>@person.Name </h2>
+                    <table class="table w-100">
+                        <tbody>
+                            <tr>
+                                <td>Age</td>
+                                <td>@person.Age</td>
+                            </tr>
+
+                            <tr>
+                                <td>Date of birth</td>
+                                <td>@person.DateOfBirth</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div> 
+                    <a href="/Details/@person.Name">Details</a>
+                    </div>
+                    <div>
+                    <a href="/PersonProduct">Person with Product</a>
+                    </div>  
+                    @{int age = Convert.ToInt32(Math.Round((DateTime.Now - person.DateOfBirth).TotalDays / 365.25));}
+                </div>
+            }
+                     
+        </div>
+
+
+
+    </body>
+
+</html>

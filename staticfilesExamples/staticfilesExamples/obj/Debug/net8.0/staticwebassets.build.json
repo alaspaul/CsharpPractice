@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LaUtPJoNLFw4ygpGFKXCw2FB2pwUUjYOLnXdrKiqdUM=",
+  "Source": "staticfilesExamples",
+  "BasePath": "_content/staticfilesExamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "staticfilesExamples\\wwwroot",
+      "Source": "staticfilesExamples",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\staticfilesExamples\\staticfilesExamples\\wwwroot\\",
+      "BasePath": "_content/staticfilesExamples",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

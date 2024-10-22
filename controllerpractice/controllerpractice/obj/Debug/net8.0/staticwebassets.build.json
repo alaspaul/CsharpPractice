@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "7eJH2ODTWt3ps+Pshs/KO7xXEuiW8fvyhietYwNlNW4=",
+  "Source": "controllerpractice",
+  "BasePath": "_content/controllerpractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "controllerpractice\\wwwroot",
+      "Source": "controllerpractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\controllerpractice\\controllerpractice\\wwwroot\\",
+      "BasePath": "_content/controllerpractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\controllerpractice\\controllerpractice\\wwwroot\\notes section 3.pdf",
+      "SourceId": "controllerpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\controllerpractice\\controllerpractice\\wwwroot\\",
+      "BasePath": "_content/controllerpractice",
+      "RelativePath": "notes section 3.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\notes section 3.pdf"
+    }
+  ]
+}

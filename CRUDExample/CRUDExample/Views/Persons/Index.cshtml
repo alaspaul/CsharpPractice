@@ -1,0 +1,70 @@
+﻿@model IEnumerable<PersonResponse>
+
+@{
+    ViewBag.Title = "Persons";
+}
+
+<h1>Persons</h1>
+<form action="~/persons/index" method="get">
+<div class="box flex">
+    <div class="flex-1">
+        <select class="form-input" name="searchBy">
+            @foreach (var item in ViewBag.SearchFields)
+            {
+                    if(item.Key == ViewBag.SearchBy)
+                    {
+
+                        <option value="@item.Key" selected ="selected">
+                            @item.Value
+                        </option>
+                    }
+                    else{
+                    <option value="@item.Key">
+                            @item.Value
+                        </option>
+                        
+                    }
+                }
+        </select>
+    </div>
+    <div class="flex-1">
+        <input class="form-input" placeholder="search" type="search" id="Search" name="searchstring" value="@ViewBag.SearchString"/>
+    </div>
+
+    <div class="flex-1">
+        <button class="button button-blue-back">Search</button>
+        <a href="~/persons/index" class="link-hover">clear all</a>
+    </div>
+</div>
+</form>
+<table class="table w-100 mt">
+    <thead>
+        <tr>
+            <th>Person Name</th>
+            <th>Email</th>
+            <th>Date of Birth</th>
+            <th>Gender</th>
+            <th>Address</th>
+            <th>News Letters</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (PersonResponse person in Model)
+        {
+            <tr>
+                <td>@person.PersonName</td>
+
+                <td>@person.PersonEmail</td>
+
+                <td>@person.DateOfBirth</td>
+
+                <td>@person.Gender.ToString()</td>
+
+                <td>@person.Address</td>
+
+                <td>@person.ReceivedNewsLetters</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

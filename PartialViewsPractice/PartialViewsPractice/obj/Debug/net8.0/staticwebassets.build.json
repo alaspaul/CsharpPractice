@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "EKOgVqAJ2EWbZhFsKMVj0zUZWzFKa+V+476abXn9pO4=",
+  "Source": "PartialViewsPractice",
+  "BasePath": "_content/PartialViewsPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewsPractice\\wwwroot",
+      "Source": "PartialViewsPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\PartialViewsPractice\\PartialViewsPractice\\wwwroot\\",
+      "BasePath": "_content/PartialViewsPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\PartialViewsPractice\\PartialViewsPractice\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewsPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\PartialViewsPractice\\PartialViewsPractice\\wwwroot\\",
+      "BasePath": "_content/PartialViewsPractice",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

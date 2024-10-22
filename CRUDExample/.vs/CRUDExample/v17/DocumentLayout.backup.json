@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\CRUDExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\crudexample\\entities\\migrations\\20240910071408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20240910071408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\crudexample\\entities\\migrations\\personsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\personsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\crudexample\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\crudexample\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\crudexample\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\crudexample\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5A2EC1-9BA1-4CCE-8C51-5346DE5F6406}|Entities\\Entities.csproj|solutionrelative:entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\crudexample\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41C9503-F09F-4FA9-9DD7-FA81B73FBE6F}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\crudexample\\services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|solutionrelative:services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudtests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|c:\\users\\paul\\source\\repos\\crudexample\\crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C61E1E3C-C2FE-434A-9429-DC49C62BD0AB}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\crudexample\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82F3530C-2E06-467F-915B-6DFA7B3D6289}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\crudexample\\servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7080D-1977-4085-92F7-A433A0E7A08B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Entities\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:14:32.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240910071408_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Migrations\\20240910071408_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20240910071408_Initial.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Migrations\\20240910071408_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20240910071408_Initial.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:14:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:29:44.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:04:44.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:16:56.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:51:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "persons.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\persons.json",
+              "RelativeDocumentMoniker": "CRUDExample\\persons.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\persons.json",
+              "RelativeToolTip": "CRUDExample\\persons.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T06:53:32.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "countries.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\countries.json",
+              "RelativeDocumentMoniker": "CRUDExample\\countries.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\countries.json",
+              "RelativeToolTip": "CRUDExample\\countries.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T06:52:56.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\PersonsDbContext.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Entities\\PersonsDbContext.cs",
+              "RelativeToolTip": "Entities\\PersonsDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:24:41.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:52:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\appsettings.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T06:45:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAhwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:47:06.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:46:02.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:48:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:36:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:18:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\PersonsService.cs",
+              "RelativeToolTip": "Services\\PersonsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:45:06.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:34:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:13:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:42:10.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:43:18.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CountryAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:45:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:08:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T09:36:46.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\IPersonsService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IPersonsService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\IPersonsService.cs",
+              "RelativeToolTip": "ServiceContracts\\IPersonsService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:41:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:24:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\MyMath.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\MyMath.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\MyMath.cs",
+              "RelativeToolTip": "CRUDTests\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:00:43.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\UnitTest1.cs",
+              "RelativeToolTip": "CRUDTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:56:04.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CRUDTests.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\CRUDTests.csproj",
+              "RelativeDocumentMoniker": "CRUDTests\\CRUDTests.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\CRUDTests\\CRUDTests.csproj",
+              "RelativeToolTip": "CRUDTests\\CRUDTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T12:20:08.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T11:45:24.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\CRUDExample\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeToolTip": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:12:46.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

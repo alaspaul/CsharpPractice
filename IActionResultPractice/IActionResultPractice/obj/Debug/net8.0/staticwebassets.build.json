@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ny4wLa2rBJFn0yEoIn77MJnJjqJ4t53Q4LyD2T9AMHA=",
+  "Source": "IActionResultPractice",
+  "BasePath": "_content/IActionResultPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResultPractice\\wwwroot",
+      "Source": "IActionResultPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\wwwroot\\",
+      "BasePath": "_content/IActionResultPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\wwwroot\\notes section 3.pdf",
+      "SourceId": "IActionResultPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\IActionResultPractice\\IActionResultPractice\\wwwroot\\",
+      "BasePath": "_content/IActionResultPractice",
+      "RelativePath": "notes section 3.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\notes section 3.pdf"
+    }
+  ]
+}

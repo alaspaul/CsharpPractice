@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\PartialViewsPractice\\PartialViewsPractice\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PartialViewsPractice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PartialViewsPractice.props",
+      "PackagePath": "build\\PartialViewsPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PartialViewsPractice.props",
+      "PackagePath": "buildMultiTargeting\\PartialViewsPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PartialViewsPractice.props",
+      "PackagePath": "buildTransitive\\PartialViewsPractice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

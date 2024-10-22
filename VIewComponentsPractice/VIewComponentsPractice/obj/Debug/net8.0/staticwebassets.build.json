@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Jfk8zNAWqwdo8ZTGJ+w7vu1nSF0muqHbRrf9b1W9SuU=",
+  "Source": "VIewComponentsPractice",
+  "BasePath": "_content/VIewComponentsPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VIewComponentsPractice\\wwwroot",
+      "Source": "VIewComponentsPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\",
+      "BasePath": "_content/VIewComponentsPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\persons.js",
+      "SourceId": "VIewComponentsPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\",
+      "BasePath": "_content/VIewComponentsPractice",
+      "RelativePath": "persons.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\persons.js"
+    },
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\StyleSheet.css",
+      "SourceId": "VIewComponentsPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\",
+      "BasePath": "_content/VIewComponentsPractice",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

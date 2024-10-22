@@ -1,0 +1,23 @@
+﻿@using VIewComponentsPractice.Models;
+@{
+    ViewBag.Title = "About";
+}
+
+<h1>About</h1>
+
+@{
+    PersonGridModel model = new PersonGridModel()
+            {
+                GridTitle = "Employees",
+                Persons = new List<Person>()
+               {
+                   new Person(){Name = "ddd", Age = 21},
+                   new Person(){Name = "sss", Age = 21},
+                   new Person(){Name = "aaa", Age = 21},
+               }
+
+            };
+}
+
+<vc:grid grid="model"></vc:grid> 
+@* parameter name need to be the same as in grid function *@

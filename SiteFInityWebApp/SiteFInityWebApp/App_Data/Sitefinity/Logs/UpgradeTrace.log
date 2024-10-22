@@ -1,0 +1,227 @@
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: Db Migration Complexity: Extending
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: Adding a column(s) on an existing table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: Adding a foreign key constraint(s) to a new table(s), the create table statement(s) is included as well.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: Adding a new table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: -- Telerik.Sitefinity.DynamicTypes.Model.MeetTheTeam.Office
+CREATE TABLE [meettheteam_office] (
+    [base_id] uniqueidentifier NOT NULL,
+    [Title] NVARCHAR(255) NULL,             -- Office.Title
+    [Info] NVARCHAR(MAX) NULL,              -- Office.Info
+    [Address] uniqueidentifier NULL,        -- Office.Address
+    CONSTRAINT [pk_meettheteam_office] PRIMARY KEY ([base_id])
+)
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: -- add column for field <internal-class-id>
+ALTER TABLE [sf_dynamic_content] ADD [voa_class] int NULL
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: UPDATE [sf_dynamic_content] SET [voa_class] = 0
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:21:37 PM
+
+Message: ALTER TABLE [sf_dynamic_content] ALTER COLUMN [voa_class] int NOT NULL
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:22:42 PM
+
+Message: Db Migration Complexity: Extending
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:22:42 PM
+
+Message: Adding a foreign key constraint(s) to an existing table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:22:42 PM
+
+Message: Adding a foreign key constraint(s) to a new table(s), the create table statement(s) is included as well.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:22:42 PM
+
+Message: Adding a new table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:22:42 PM
+
+Message: -- Telerik.Sitefinity.DynamicTypes.Model.MeetTheTeam.Member
+CREATE TABLE [meettheteam_member] (
+    [base_id] uniqueidentifier NOT NULL,
+    [Title] NVARCHAR(255) NULL,             -- Member.Title
+    [Bio] NVARCHAR(MAX) NULL,               -- Member.Bio
+    CONSTRAINT [pk_meettheteam_member] PRIMARY KEY ([base_id])
+)
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:26:15 PM
+
+Message: Db Migration Complexity: Extending
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:26:15 PM
+
+Message: Adding a foreign key constraint(s) to an existing table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:26:15 PM
+
+Message: Adding an index(indices) definition for a new table(s), the create table statement(s) is included as well.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:26:15 PM
+
+Message: Adding a new table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:26:15 PM
+
+Message: -- Telerik.Sitefinity.GeoLocations.Model.GeoLocation
+CREATE TABLE [sf_geo_locations] (
+    [item_provider] VARCHAR(255) NULL,      -- providerName
+    [last_modified] datetime NOT NULL,      -- lastModified
+    [id] uniqueidentifier NOT NULL,         -- id
+    [custom_key] VARCHAR(255) NULL,         -- customKey
+    [coordinates] geography NULL,           -- coordinates
+    [content_type] VARCHAR(255) NULL,       -- contentType
+    [content_id] uniqueidentifier NOT NULL, -- contentItemId
+    [app_name] varchar(255) NULL,           -- applicationName
+    [voa_version] smallint NOT NULL,        -- <internal-version>
+    CONSTRAINT [pk_sf_geo_locations] PRIMARY KEY ([id])
+)
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:26:15 PM
+
+Message: -- Index 'idx_geo_loc_norm_search' was not detected in the database. It will be created
+CREATE UNIQUE INDEX [idx_geo_loc_norm_search] ON [sf_geo_locations]([content_id], [content_type], [custom_key])
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: Db Migration Complexity: Complex
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: Adding a foreign key constraint(s) to a new table(s), the create table statement(s) is included as well.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: Adding a new table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: Modifying a column(s) on an existing table(s).
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: -- Telerik.Sitefinity.DynamicTypes.Model.sf_register_for_course
+CREATE TABLE [sf_fm_sf_register_for_course] (
+    [id] uniqueidentifier NOT NULL,
+    [EmailTextFieldController1] NVARCHAR(255) NULL, -- sf_register_for_course.EmailTextFieldController
+    [TextFieldController1] NVARCHAR(255) NULL, -- sf_register_for_course.TextFieldController
+    [MultipleChoiceFieldController1] NVARCHAR(255) NULL, -- sf_register_for_course.MultipleChoiceFieldController
+    CONSTRAINT [pk_sf_fm_sf_rgstr_fr__32777F09] PRIMARY KEY ([id])
+)
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: -- Column was read from database as: [voa_class] int null
+-- modify column for field <internal-class-id>
+UPDATE [sf_form_entry]
+   SET [voa_class] = 0 -- Add your own default value here, for when [voa_class] is null.
+ WHERE [voa_class] IS NULL
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: ALTER TABLE [sf_form_entry] ALTER COLUMN [voa_class] int NOT NULL
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/14/2024 1:42:52 PM
+
+Message: ALTER TABLE [sf_fm_sf_register_for_course] ADD CONSTRAINT [ref_sf_fm_sf_rgstr_fr_D3D96B7E] FOREIGN KEY ([id]) REFERENCES [sf_form_entry]([id]) ON DELETE CASCADE
+
+
+----------------------------------------

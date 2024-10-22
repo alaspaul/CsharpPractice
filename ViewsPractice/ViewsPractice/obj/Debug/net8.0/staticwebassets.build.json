@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "HzZV1bDDmaQfu8GUQF91ifyJxWXEtdTVH7ERKELWi10=",
+  "Source": "ViewsPractice",
+  "BasePath": "_content/ViewsPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewsPractice\\wwwroot",
+      "Source": "ViewsPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\ViewsPractice\\ViewsPractice\\wwwroot\\",
+      "BasePath": "_content/ViewsPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\ViewsPractice\\ViewsPractice\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewsPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\ViewsPractice\\ViewsPractice\\wwwroot\\",
+      "BasePath": "_content/ViewsPractice",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

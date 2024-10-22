@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\ViewsPractice\\ViewsPractice\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ViewsPractice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ViewsPractice.props",
+      "PackagePath": "build\\ViewsPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ViewsPractice.props",
+      "PackagePath": "buildMultiTargeting\\ViewsPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ViewsPractice.props",
+      "PackagePath": "buildTransitive\\ViewsPractice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

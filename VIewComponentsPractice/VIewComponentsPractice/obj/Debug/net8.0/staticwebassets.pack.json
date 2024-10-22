@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\VIewComponentsPractice\\VIewComponentsPractice\\wwwroot\\persons.js",
+      "PackagePath": "staticwebassets\\persons.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VIewComponentsPractice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VIewComponentsPractice.props",
+      "PackagePath": "build\\VIewComponentsPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VIewComponentsPractice.props",
+      "PackagePath": "buildMultiTargeting\\VIewComponentsPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VIewComponentsPractice.props",
+      "PackagePath": "buildTransitive\\VIewComponentsPractice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

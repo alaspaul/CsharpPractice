@@ -1,0 +1,106 @@
+----------------------------------------
+Timestamp: 10/17/2024 9:51:37 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.ExternalNotifications.ExternalNotificationsRetrieverTask'. Start time: 10/17/2024 9:51:36 AM. End time: 10/17/2024 9:51:37 AM. Task data: '{}'
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 9:51:37 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Authentication.Data.TransientDataCleanupTask'. Start time: 10/17/2024 9:51:36 AM. End time: 10/17/2024 9:51:37 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 9:51:37 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.ServiceHooks.Scheduling.ServiceHooksActivitiesCleanupTask'. Start time: 10/17/2024 9:51:36 AM. End time: 10/17/2024 9:51:37 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 9:51:37 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Services.Notifications.Scheduling.NotificationsCleanupTask'. Start time: 10/17/2024 9:51:36 AM. End time: 10/17/2024 9:51:37 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 9:51:37 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Versioning.Cleaner.VersioningCleanerTask'. Start time: 10/17/2024 9:51:37 AM. End time: 10/17/2024 9:51:37 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 9:51:50 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.UsageTracking.Scheduling.UsageTrackingTask'. Start time: 10/17/2024 9:51:36 AM. End time: 10/17/2024 9:51:50 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 10:20:37 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Security.ChangePermissionsTask'. Start time: 10/17/2024 10:20:37 AM. End time: 10/17/2024 10:20:37 AM. Task data: '{"ActionName":"ViewPermissions","CurrentUserClaims":[{"m_issuer":"https:\/\/localhost:44301\/","m_originalIssuer":"https:\/\/localhost:44301\/","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/userid","m_value":"f99d2de8-9e24-4626-a8e9-8de04c6424e3","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"https:\/\/localhost:44301\/","m_originalIssuer":"https:\/\/localhost:44301\/","m_properties":null,"m_type":"http:\/\/schemas.xmlsoap.org\/ws\/2005\/05\/identity\/claims\/name","m_value":"adminuser@email.com","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"https:\/\/localhost:44301\/","m_originalIssuer":"https:\/\/localhost:44301\/","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/domain","m_value":"Default","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"https:\/\/localhost:44301\/","m_originalIssuer":"https:\/\/localhost:44301\/","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/lastlogindate","m_value":"2024-10-17 10:12:12Z","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"},{"m_issuer":"https:\/\/localhost:44301\/","m_originalIssuer":"https:\/\/localhost:44301\/","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/role","m_value":"cac4a67e-06d7-444a-9afd-4aa490fee640;Everyone;XmlConfigProvider","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"https:\/\/localhost:44301\/","m_originalIssuer":"https:\/\/localhost:44301\/","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/role","m_value":"ffcd5a78-b6b7-4f18-b6c2-cb21be1d4ae5;Authenticated;XmlConfigProvider","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"https:\/\/localhost:44301\/","m_originalIssuer":"https:\/\/localhost:44301\/","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/role","m_value":"ad67f544-9366-47a7-addb-bc8520830b04;Administrators;AppRoles","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"LOCAL AUTHORITY","m_originalIssuer":"LOCAL AUTHORITY","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/issuedate","m_value":"2024-10-17 10:12:12Z","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"LOCAL AUTHORITY","m_originalIssuer":"LOCAL AUTHORITY","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/tokenid","m_value":"736b4ad9-7022-433e-b6ef-01ee29a8f712","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"},{"m_issuer":"LOCAL AUTHORITY","m_originalIssuer":"LOCAL AUTHORITY","m_properties":null,"m_type":"http:\/\/schemas.sitefinity.com\/ws\/2011\/06\/identity\/claims\/adjusted","m_value":"","m_valueType":"http:\/\/www.w3.org\/2001\/XMLSchema#string"}],"CurrentUserId":"f99d2de8-9e24-4626-a8e9-8de04c6424e3","DataProviderName":"OpenAccessDataProvider","DynamicDataProviderName":null,"ManagerClassName":"Telerik.Sitefinity.Security.SecurityManager, Telerik.Sitefinity, Version=14.4.8100.0, Culture=neutral, PublicKeyToken=b28c218413bdf563","PermissionObjectRootID":"71576dba-bddd-4266-9b9d-1de3330a6d4b","PermissionsSetName":"Backend","Principals":[{"ActionName":"ViewPermissions","ActionTitle":null,"AllowControlClientID":null,"DataProviderName":null,"DenyControlClientID":null,"IsAllowed":true,"IsDenied":false,"PermissionSetName":null,"PrincipalID":"cac4a67e-06d7-444a-9afd-4aa490fee640","PrincipalName":"Everyone","PrincipalTitle":null,"PrincipalType":"Role","SecuredObjectId":null}],"RootId":"71576dba-bddd-4266-9b9d-1de3330a6d4b","SecuredObjectID":"71576dba-bddd-4266-9b9d-1de3330a6d4b","SecuredObjectType":"Telerik.Sitefinity.Security.Model.SecurityRoot, Telerik.Sitefinity.Model, Version=14.4.8100.0, Culture=neutral, PublicKeyToken=b28c218413bdf563","TransactionName":"permissionInheritanceTransactionName1d45f86d-8f97-47bd-9305-c68d75feabcf"}'
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 10:30:52 AM
+
+Message: Operation: 'ApplicationRestart'. Parameters: 'flags:Default;sendRestartApplicationSystemMessage:True'. Reason: 'StaticModulesUpdate|Diagnostics|Operation:Install'. User: 'adminuser@email.com'. StackTrace: '
+Telerik.Sitefinity.Services.SystemManager: Boolean RestartApplication(Telerik.Sitefinity.Services.OperationReason, Telerik.Sitefinity.Services.SystemRestartFlags, Boolean)
+Telerik.Sitefinity.Services.Web.Services.ModulesService: Telerik.Sitefinity.Services.Web.Services.ViewModel.ModuleViewModel ExecuteStaticModuleOperation(Telerik.Sitefinity.Services.Web.Services.ViewModel.ModuleViewModel, Telerik.Sitefinity.Services.Web.Services.ModuleOperation)
+Telerik.Sitefinity.Services.Web.Services.ModulesService: Telerik.Sitefinity.Services.Web.Services.ViewModel.ModuleViewModel Execute(Telerik.Sitefinity.Services.Web.Services.ViewModel.ModuleViewModel, Telerik.Sitefinity.Services.Web.Services.ModuleOperation)
+unknown: System.Object SyncInvokeExecute(System.Object, System.Object[], System.Object[])
+System.ServiceModel.Dispatcher.SyncMethodInvoker: System.Object Invoke(System.Object, System.Object[], System.Object[] ByRef)
+System.ServiceModel.Dispatcher.DispatchOperationRuntime: Void InvokeBegin(System.ServiceModel.Dispatcher.MessageRpc ByRef)
+System.ServiceModel.Dispatcher.ImmutableDispatchRuntime: Void ProcessMessage5(System.ServiceModel.Dispatcher.MessageRpc ByRef)
+System.ServiceModel.Dispatcher.ImmutableDispatchRuntime: Void ProcessMessage11(System.ServiceModel.Dispatcher.MessageRpc ByRef)
+System.ServiceModel.Dispatcher.MessageRpc: Boolean Process(Boolean)
+System.ServiceModel.Dispatcher.ChannelHandler: Boolean DispatchAndReleasePump(System.ServiceModel.Channels.RequestContext, Boolean, System.ServiceModel.OperationContext)
+System.ServiceModel.Dispatcher.ChannelHandler: Boolean HandleRequest(System.ServiceModel.Channels.RequestContext, System.ServiceModel.OperationContext)
+System.ServiceModel.Dispatcher.ChannelHandler: Void AsyncMessagePump(System.IAsyncResult)
+System.ServiceModel.Dispatcher.ChannelHandler: Void OnAsyncReceiveComplete(System.IAsyncResult)
+System.Runtime.Fx+AsyncThunk: Void UnhandledExceptionFrame(System.IAsyncResult)
+Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.AsyncResult: Void Complete(Boolean)
+Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.RequestInterceptorReplyChannelBase`1+TryReceiveRequestAsyncResult: Void InnerTryReceiveCallback(System.IAsyncResult)
+System.Runtime.AsyncResult: Void Complete(Boolean)
+System.Runtime.InputQueue`1+AsyncQueueReader: Void Set(Item)
+System.Runtime.InputQueue`1: Void EnqueueAndDispatch(Item, Boolean)
+System.Runtime.InputQueue`1: Void EnqueueAndDispatch(T, System.Action, Boolean)
+System.ServiceModel.Channels.SingletonChannelAcceptor`3: Void Enqueue(QueueItemType, System.Action, Boolean)
+System.ServiceModel.Channels.HttpPipeline+EnqueueMessageAsyncResult: Void CompleteParseAndEnqueue(System.IAsyncResult)
+System.ServiceModel.Channels.HttpPipeline+EnqueueMessageAsyncResult: Boolean HandleParseIncomingMessage(System.IAsyncResult)
+System.Runtime.AsyncResult: Boolean SyncContinue(System.IAsyncResult)
+System.ServiceModel.Channels.HttpPipeline+EmptyHttpPipeline: System.IAsyncResult BeginProcessInboundRequest(System.ServiceModel.Channels.ReplyChannelAcceptor, System.Action, System.AsyncCallback, System.Object)
+System.ServiceModel.Channels.HttpChannelListener`1+HttpContextReceivedAsyncResult`1: System.Runtime.AsyncCompletionResult ProcessHttpContextAsync()
+System.ServiceModel.Channels.HttpChannelListener`1: System.IAsyncResult BeginHttpContextReceived(System.ServiceModel.Channels.HttpRequestContext, System.Action, System.AsyncCallback, System.Object)
+System.ServiceModel.Activation.HostedHttpTransportManager: Void HttpContextReceived(System.ServiceModel.Activation.HostedHttpRequestAsyncResult)
+System.ServiceModel.Activation.HostedHttpRequestAsyncResult: Void HandleRequest()
+System.ServiceModel.Activation.HostedHttpRequestAsyncResult: Void BeginRequest()
+System.ServiceModel.Activation.HostedHttpRequestAsyncResult: Void OnBeginRequest(System.Object)
+System.ServiceModel.AspNetPartialTrustHelpers: Void PartialTrustInvoke(System.Threading.ContextCallback, System.Object)
+System.ServiceModel.Activation.HostedHttpRequestAsyncResult: Void OnBeginRequestWithFlow(System.Object)
+System.Runtime.IOThreadScheduler+ScheduledOverlapped: Void IOCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+System.Runtime.Fx+IOCompletionThunk: Void UnhandledExceptionFrame(UInt32, UInt32, System.Threading.NativeOverlapped*)
+System.Threading._IOCompletionCallback: Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)'.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 10:30:54 AM
+
+Message: Enter upgrade mode
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 10/17/2024 10:31:20 AM
+
+Message: Exit upgrade mode
+
+
+----------------------------------------

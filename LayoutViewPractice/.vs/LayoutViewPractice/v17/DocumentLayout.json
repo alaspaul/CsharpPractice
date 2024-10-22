@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|c:\\users\\paul\\source\\repos\\layoutviewpractice\\layoutviewpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8267DF-D904-4D6B-819C-8326672ED706}|LayoutViewPractice\\LayoutViewPractice.csproj|solutionrelative:layoutviewpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Product\\Search.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Product\\Search.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Product\\Search.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Product\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:17:58.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LayoutViewPractice\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:45:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:16:41.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T06:50:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Product\\Order.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Product\\Order.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Product\\Order.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Product\\Order.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:18:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:17:26.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:07:22.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:15:32.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Views\\Home\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeToolTip": "LayoutViewPractice\\Views\\Home\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:36:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayoutViewPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayoutViewPractice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:45:40.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

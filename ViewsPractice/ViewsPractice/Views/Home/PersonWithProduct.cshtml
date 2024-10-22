@@ -1,0 +1,42 @@
+﻿
+@model PersonAndProductWrapperModel;
+
+<!DOCTYPE html>
+<html>
+    <title>
+        PERSON PRODUCT
+    </title>
+    <head>
+        <meta charset="UTF-8" />
+        <link href="~/StyleSheet.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <div class="page-content">
+            <h1>Person with product</h1>
+            <div class="box w-100">
+                <table class="table w-50">
+                    <h1>Person</h1>
+                    <tr>
+                        <td>Name</td>
+                        <td>@Model.PersonData.Name</td>
+                    </tr>
+                    <tr>
+                        <td>Age</td>
+                        <td>@Model.PersonData.Age</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="box w-100">
+                <table class="table w-50">
+                    <h1>Product</h1>
+                    <tr>
+                        <td>Product Name</td>
+                        <td>@Model.ProductData.Name</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

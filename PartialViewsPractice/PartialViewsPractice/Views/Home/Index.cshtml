@@ -1,0 +1,20 @@
+﻿<h1>HOME</h1>
+
+<partial name="_ListPartialView">
+
+</partial>
+
+@{
+    ViewData["ListTitle"] = "Countries";
+    ViewData["ListItems"] = new List<string>()
+    {
+        "USA",
+        "PH",
+        "CANADA"
+    };
+}
+<div class="box">
+    <partial name="_ListPartialView">
+
+    </partial>
+</div>

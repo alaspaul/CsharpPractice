@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9B42FA-07E1-4406-8898-F2AEE9713511}|WeatherAssignment\\WeatherAssignment.csproj|c:\\users\\paul\\source\\repos\\weatherassignmentwithdi\\weatherassignment\\controllers\\cityweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9B42FA-07E1-4406-8898-F2AEE9713511}|WeatherAssignment\\WeatherAssignment.csproj|solutionrelative:weatherassignment\\controllers\\cityweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9B42FA-07E1-4406-8898-F2AEE9713511}|WeatherAssignment\\WeatherAssignment.csproj|c:\\users\\paul\\source\\repos\\weatherassignmentwithdi\\weatherassignment\\weatherassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE9B42FA-07E1-4406-8898-F2AEE9713511}|WeatherAssignment\\WeatherAssignment.csproj|solutionrelative:weatherassignment\\weatherassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D6FB0A-E6B4-4014-B2AC-C6F353785E9C}|Service\\Service.csproj|c:\\users\\paul\\source\\repos\\weatherassignmentwithdi\\service\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D6FB0A-E6B4-4014-B2AC-C6F353785E9C}|Service\\Service.csproj|solutionrelative:service\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityWeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithDI\\WeatherAssignment\\Controllers\\CityWeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherAssignment\\Controllers\\CityWeatherController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithDI\\WeatherAssignment\\Controllers\\CityWeatherController.cs",
+              "RelativeToolTip": "WeatherAssignment\\Controllers\\CityWeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:36:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherAssignment.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithDI\\WeatherAssignment\\WeatherAssignment.csproj",
+              "RelativeDocumentMoniker": "WeatherAssignment\\WeatherAssignment.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithDI\\WeatherAssignment\\WeatherAssignment.csproj",
+              "RelativeToolTip": "WeatherAssignment\\WeatherAssignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T12:36:47.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithDI\\Service\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Service\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithDI\\Service\\WeatherService.cs",
+              "RelativeToolTip": "Service\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:36:26.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

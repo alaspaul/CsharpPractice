@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LApW9Y24BZe+GRARh95RqSILJMMlR+wBP2Xw/sGdxyY=",
+  "Source": "ModelBindingPractice",
+  "BasePath": "_content/ModelBindingPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ModelBindingPractice\\wwwroot",
+      "Source": "ModelBindingPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\ModelBindingPractice\\ModelBindingPractice\\wwwroot\\",
+      "BasePath": "_content/ModelBindingPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

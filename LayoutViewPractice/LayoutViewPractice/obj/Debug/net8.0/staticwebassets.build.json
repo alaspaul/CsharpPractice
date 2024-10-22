@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "HaxMPDHGlUZTBFhvYkwSTbJf17mcn145+eKPNISm18I=",
+  "Source": "LayoutViewPractice",
+  "BasePath": "_content/LayoutViewPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViewPractice\\wwwroot",
+      "Source": "LayoutViewPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\wwwroot\\",
+      "BasePath": "_content/LayoutViewPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViewPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\LayoutViewPractice\\LayoutViewPractice\\wwwroot\\",
+      "BasePath": "_content/LayoutViewPractice",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

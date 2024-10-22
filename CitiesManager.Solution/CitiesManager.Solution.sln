@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesManager.WebAPI", "CitiesManager.WebAPI\CitiesManager.WebAPI.csproj", "{72E8BD54-C58C-4CAF-960C-38F5E9D30EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E8BD54-C58C-4CAF-960C-38F5E9D30EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E8BD54-C58C-4CAF-960C-38F5E9D30EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E8BD54-C58C-4CAF-960C-38F5E9D30EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E8BD54-C58C-4CAF-960C-38F5E9D30EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A1BB37-777E-4D36-B692-09F18C428690}
+	EndGlobalSection
+EndGlobal

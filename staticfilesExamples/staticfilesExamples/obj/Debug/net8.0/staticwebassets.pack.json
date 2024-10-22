@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\staticfilesExamples\\staticfilesExamples\\wwwroot\\Notes+-+Section+3+-+HTTP.pdf",
+      "PackagePath": "staticwebassets\\Notes+-+Section+3+-+HTTP.pdf"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\staticfilesExamples\\staticfilesExamples\\wwwroot\\RBT PH Intern acceptance and agreement letter-Paul Irvin Alas.pdf",
+      "PackagePath": "staticwebassets\\RBT PH Intern acceptance and agreement letter-Paul Irvin Alas.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.staticfilesExamples.props",
+      "PackagePath": "build\\staticfilesExamples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.staticfilesExamples.props",
+      "PackagePath": "buildMultiTargeting\\staticfilesExamples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.staticfilesExamples.props",
+      "PackagePath": "buildTransitive\\staticfilesExamples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.staticfilesExamples.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

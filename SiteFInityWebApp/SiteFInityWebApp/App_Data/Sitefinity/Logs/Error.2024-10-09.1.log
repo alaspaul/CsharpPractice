@@ -1,0 +1,134 @@
+----------------------------------------
+ActivityId: 00000000-0000-0000-0000-000000000000
+
+Timestamp: 10/7/2024 6:30:58 AM
+
+Message: HandlingInstanceID: afcf1c08-9273-48fa-ba44-e15695a6b486
+An exception of type 'System.AggregateException' occurred and was caught.
+-------------------------------------------------------------------------
+10/07/2024 14:30:58
+Type : System.AggregateException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : One or more errors occurred.
+Source : mscorlib
+Help link : 
+InnerExceptions : System.Collections.ObjectModel.ReadOnlyCollection`1[System.Exception]
+Data : System.Collections.ListDictionaryInternal
+TargetSite : TResult GetResultCore(Boolean)
+HResult : -2146233088
+Stack Trace :    at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at SiteFInityWebApp.Mvc.Models.FlightDataModel.GetViewModel()
+   at SiteFInityWebApp.Mvc.Controllers.FlightDataController.Index()
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass24_0.<InvokeActionMethodWithFilters>b__0()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at Telerik.Sitefinity.Mvc.ControllerWrapper.Execute()
+   at Telerik.Sitefinity.Mvc.ControllerActionInvoker.ExecuteController(MvcProxyBase proxyControl)
+   at Telerik.Sitefinity.Frontend.Mvc.Infrastructure.Routing.FeatherActionInvoker.ExecuteController(MvcProxyBase proxyControl)
+
+Additional Info:
+
+MachineName : DESKTOP-PORIVCO
+TimeStamp : 10/7/2024 6:30:58 AM
+FullName : Telerik.Sitefinity.Utilities, Version=14.4.8100.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/2/ROOT-1-133727560123446260
+ThreadIdentity : adminuser@email.com
+WindowsIdentity : DESKTOP-PORIVCO\paul
+Requested URL : https://localhost:44301/space-x-launches/Action/Edit/en
+	Inner Exception
+	---------------
+	Type : System.Net.Http.HttpRequestException, System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+	Message : Response status code does not indicate success: 404 (Not Found).
+	Source : System.Net.Http
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.Net.Http.HttpResponseMessage EnsureSuccessStatusCode()
+	HResult : -2146233088
+	Stack Trace :    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+	   at SiteFInityWebApp.Mvc.Models.FlightDataModel.<GetLaunchAsync>d__1.MoveNext()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-PORIVCO
+
+App Domain: /LM/W3SVC/2/ROOT-1-133727560123446260
+
+ProcessId: 19588
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:23420
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: 62705198-d521-463b-8d6d-371f89d9fbd9
+
+Timestamp: 10/7/2024 7:29:28 AM
+
+Message: HandlingInstanceID: f7f1252d-47f9-4749-b27a-1e482f908bda
+An exception of type 'System.Exception' occurred and was caught.
+----------------------------------------------------------------
+10/07/2024 15:29:28
+Type : System.Exception, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Database error.
+Source : 
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : 
+HResult : -2146233088
+Stack Trace : The stack trace is unavailable.
+Additional Info:
+
+MachineName : DESKTOP-PORIVCO
+TimeStamp : 10/7/2024 7:29:28 AM
+FullName : Telerik.Sitefinity.Utilities, Version=14.4.8100.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/2/ROOT-1-133727569774556105
+ThreadIdentity : adminuser@email.com
+WindowsIdentity : DESKTOP-PORIVCO\paul
+Requested URL : https://localhost:44301/sf/system/$batch?sf_provider=OpenAccessDataProvider&sf_culture=en&sf_site=240486cb-062c-4f69-a1ea-4a768a51933c
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-PORIVCO
+
+App Domain: /LM/W3SVC/2/ROOT-1-133727569774556105
+
+ProcessId: 17676
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:9192
+
+Extended Properties: 
+----------------------------------------

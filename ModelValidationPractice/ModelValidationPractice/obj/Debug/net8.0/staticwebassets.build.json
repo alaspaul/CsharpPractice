@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "y5+AOgEpGN68/r6aqga1qlycnNN6ymvh6upDK2sAL0Y=",
+  "Source": "ModelValidationPractice",
+  "BasePath": "_content/ModelValidationPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ModelValidationPractice\\wwwroot",
+      "Source": "ModelValidationPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\wwwroot\\",
+      "BasePath": "_content/ModelValidationPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,172 @@
+----------------------------------------
+ActivityId: 00000000-0000-0000-0000-000000000000
+
+Timestamp: 10/17/2024 10:27:24 AM
+
+Message: HandlingInstanceID: 98c9aae9-b627-4d06-95b5-06ac068f4721
+An exception of type 'System.ArgumentException' occurred and was caught.
+------------------------------------------------------------------------
+10/17/2024 18:27:23
+Type : System.ArgumentException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Could not load type: Telerik.Sitefinity.Diagnostics.DiagnosticModule, please verify the name.
+Source : Telerik.Sitefinity
+Help link : 
+ParamName : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Void ValidateModule(Telerik.Sitefinity.Services.Web.Services.ViewModel.ModuleViewModel, Telerik.Sitefinity.Configuration.ConfigElementDictionary`2[System.String,Telerik.Sitefinity.Services.AppModuleSettings], Telerik.Sitefinity.Services.AppModuleSettings)
+HResult : -2147024809
+Stack Trace :    at Telerik.Sitefinity.Services.Web.Services.ModulesService.ValidateModule(ModuleViewModel module, ConfigElementDictionary`2 configElementDictionary, AppModuleSettings moduleSettings)
+   at Telerik.Sitefinity.Services.Web.Services.ModulesService.AddStaticModule(ModuleViewModel module)
+   at Telerik.Sitefinity.Services.Web.Services.ModulesService.ExecuteStaticModuleOperation(ModuleViewModel module, ModuleOperation operation)
+   at Telerik.Sitefinity.Services.Web.Services.ModulesService.Execute(ModuleViewModel module, ModuleOperation operation)
+
+Additional Info:
+
+MachineName : DESKTOP-PORIVCO
+TimeStamp : 10/17/2024 10:27:24 AM
+FullName : Telerik.Sitefinity.Utilities, Version=14.4.8100.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/2/ROOT-1-133736322760247415
+ThreadIdentity : adminuser@email.com
+WindowsIdentity : DESKTOP-PORIVCO\paul
+Requested URL : https://localhost:44301/Sitefinity/Services/ModulesService/modules?operation=0
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-PORIVCO
+
+App Domain: /LM/W3SVC/2/ROOT-1-133736322760247415
+
+ProcessId: 30424
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:24916
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: 00000000-0000-0000-0000-000000000000
+
+Timestamp: 10/17/2024 10:27:24 AM
+
+Message: HandlingInstanceID: e16a9014-0c08-44be-a90d-52bdae51084d
+An exception of type 'System.ArgumentException' occurred and was caught.
+------------------------------------------------------------------------
+10/17/2024 18:27:24
+Type : System.ArgumentException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Could not load type: Telerik.Sitefinity.Diagnostics.DiagnosticModule, please verify the name.
+Source : Telerik.Sitefinity
+Help link : 
+ParamName : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Void ValidateModule(Telerik.Sitefinity.Services.Web.Services.ViewModel.ModuleViewModel, Telerik.Sitefinity.Configuration.ConfigElementDictionary`2[System.String,Telerik.Sitefinity.Services.AppModuleSettings], Telerik.Sitefinity.Services.AppModuleSettings)
+HResult : -2147024809
+Stack Trace :    at Telerik.Sitefinity.Services.Web.Services.ModulesService.ValidateModule(ModuleViewModel module, ConfigElementDictionary`2 configElementDictionary, AppModuleSettings moduleSettings)
+   at Telerik.Sitefinity.Services.Web.Services.ModulesService.AddStaticModule(ModuleViewModel module)
+   at Telerik.Sitefinity.Services.Web.Services.ModulesService.ExecuteStaticModuleOperation(ModuleViewModel module, ModuleOperation operation)
+   at Telerik.Sitefinity.Services.Web.Services.ModulesService.Execute(ModuleViewModel module, ModuleOperation operation)
+   at SyncInvokeExecute(Object , Object[] , Object[] )
+   at System.ServiceModel.Dispatcher.SyncMethodInvoker.Invoke(Object instance, Object[] inputs, Object[]& outputs)
+   at System.ServiceModel.Dispatcher.DispatchOperationRuntime.InvokeBegin(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.ImmutableDispatchRuntime.ProcessMessage5(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.ImmutableDispatchRuntime.ProcessMessage11(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.MessageRpc.Process(Boolean isOperationContextSet)
+
+Additional Info:
+
+MachineName : DESKTOP-PORIVCO
+TimeStamp : 10/17/2024 10:27:24 AM
+FullName : Telerik.Sitefinity.Utilities, Version=14.4.8100.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/2/ROOT-1-133736322760247415
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-PORIVCO\paul
+Requested URL : https://localhost:44301/Sitefinity/Services/ModulesService/modules?operation=0
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-PORIVCO
+
+App Domain: /LM/W3SVC/2/ROOT-1-133736322760247415
+
+ProcessId: 30424
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:24916
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: 8bcfaa92-f07b-462a-8bd7-3b759b1b98a1
+
+Timestamp: 10/17/2024 10:31:22 AM
+
+Message: HandlingInstanceID: 313ed84e-edd8-42a4-9612-2b908c1a77a1
+An exception of type 'System.Exception' occurred and was caught.
+----------------------------------------------------------------
+10/17/2024 18:31:22
+Type : System.Exception, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : The operation was canceled.
+Source : 
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : 
+HResult : -2146233088
+Stack Trace : The stack trace is unavailable.
+Additional Info:
+
+MachineName : DESKTOP-PORIVCO
+TimeStamp : 10/17/2024 10:31:22 AM
+FullName : Telerik.Sitefinity.Utilities, Version=14.4.8100.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/2/ROOT-1-133736346068811317
+ThreadIdentity : adminuser@email.com
+WindowsIdentity : DESKTOP-PORIVCO\paul
+Requested URL : https://localhost:44301/sf/system/Default.GetNotificationsCount(unreadOnly=true)
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-PORIVCO
+
+App Domain: /LM/W3SVC/2/ROOT-1-133736346068811317
+
+ProcessId: 26244
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:25896
+
+Extended Properties: 
+----------------------------------------

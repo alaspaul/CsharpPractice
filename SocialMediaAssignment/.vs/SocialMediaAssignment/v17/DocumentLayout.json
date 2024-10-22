@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\socialmedialinkoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\socialmedialinkoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|c:\\users\\paul\\source\\repos\\socialmediaassignment\\socialmediaassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{150BCC2D-9D51-4F86-BBF1-F4AB4220AD36}|SocialMediaAssignment\\SocialMediaAssignment.csproj|solutionrelative:socialmediaassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SocialMediaAssignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T13:59:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Program.cs",
+              "RelativeToolTip": "SocialMediaAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:56:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocialMediaLinkOptions.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\SocialMediaLinkOptions.cs",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\SocialMediaLinkOptions.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\SocialMediaLinkOptions.cs",
+              "RelativeToolTip": "SocialMediaAssignment\\SocialMediaLinkOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:58:06.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\appsettings.Development.json",
+              "RelativeToolTip": "SocialMediaAssignment\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T13:56:09.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SocialMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:00:05.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SocialMediaAssignment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:59:26.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SocialMediaAssignment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:01:14.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialMediaAssignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\appsettings.json",
+              "RelativeToolTip": "SocialMediaAssignment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T13:55:45.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

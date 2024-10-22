@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ICM8bRXmMG8HOHgA6GsSnhMIrOZ0z8uBW8uYqAFAnuE=",
+  "Source": "DependencyInjectionPractice",
+  "BasePath": "_content/DependencyInjectionPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DependencyInjectionPractice\\wwwroot",
+      "Source": "DependencyInjectionPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\DependencyInjectionPractice\\DependencyInjectionPractice\\wwwroot\\",
+      "BasePath": "_content/DependencyInjectionPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\DependencyInjectionPractice\\DependencyInjectionPractice\\wwwroot\\StyleSheet.css",
+      "SourceId": "DependencyInjectionPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\DependencyInjectionPractice\\DependencyInjectionPractice\\wwwroot\\",
+      "BasePath": "_content/DependencyInjectionPractice",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

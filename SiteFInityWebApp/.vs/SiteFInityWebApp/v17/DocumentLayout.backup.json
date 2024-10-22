@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\App_Data\\Sitefinity\\Configuration\\DataConfig.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteFInityWebApp\\App_Data\\Sitefinity\\Configuration\\DataConfig.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|c:\\users\\paul\\source\\repos\\sitefinitywebapp\\sitefinitywebapp\\mvc\\controllers\\flightdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\mvc\\controllers\\flightdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\mvc\\models\\flightdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\mvc\\models\\flightdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\mvc\\viewmodels\\launchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\mvc\\viewmodels\\launchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\mvc\\views\\flightdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\mvc\\views\\flightdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\adminapp\\sample.extensions.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\adminapp\\sample.extensions.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\sitefinityAdminEXT\\sitefinity-admin-app-extensions\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\azurewebrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\azurewebrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\app_start\\razorgeneratormvcstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\app_start\\razorgeneratormvcstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Circle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Circle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\resourcepackages\\custom\\gridsystem\\templates\\grid-7\u002B5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\resourcepackages\\custom\\gridsystem\\templates\\grid-7\u002B5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\resourcepackages\\bootstrap4\\gridsystem\\templates\\grid-9\u002B3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\resourcepackages\\bootstrap4\\gridsystem\\templates\\grid-9\u002B3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\resourcepackages\\bootstrap5\\gridsystem\\templates\\grid-9\u002B3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\resourcepackages\\bootstrap5\\gridsystem\\templates\\grid-9\u002B3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\sitefinitywebapp\\resourcepackages\\custom\\gridsystem\\templates\\grid-5\u002B7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84075392-F76C-47C0-8949-3D9F9A6EACC2}|SiteFInityWebApp\\SiteFInityWebApp.csproj|solutionrelative:sitefinitywebapp\\resourcepackages\\custom\\gridsystem\\templates\\grid-5\u002B7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-alert.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-alert.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Layouts\\custom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Layouts\\custom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Simple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Simple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Hero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Hero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Card.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.cshtml",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.cshtml",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T09:44:01.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Card.Hero.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Hero.cshtml",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Hero.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Hero.cshtml",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Hero.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T09:44:00.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Card.Circle.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Circle.cshtml",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Circle.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Circle.cshtml",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Circle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T09:39:27.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "grid-7\u002B5.html",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-7\u002B5.html",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-7\u002B5.html",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-7\u002B5.html",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-7\u002B5.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-09T07:55:26.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "grid-5\u002B7.html",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-5\u002B7.html",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-5\u002B7.html",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-5\u002B7.html",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Custom\\GridSystem\\Templates\\grid-5\u002B7.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-09T07:54:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "custom.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Layouts\\custom.cshtml",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Layouts\\custom.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Layouts\\custom.cshtml",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Layouts\\custom.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAOBvwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T07:16:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightDataController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\Controllers\\FlightDataController.cs",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\Mvc\\Controllers\\FlightDataController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\Controllers\\FlightDataController.cs",
+              "RelativeToolTip": "SiteFInityWebApp\\Mvc\\Controllers\\FlightDataController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:15:32.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\Models\\FlightDataModel.cs",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\Mvc\\Models\\FlightDataModel.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\Models\\FlightDataModel.cs",
+              "RelativeToolTip": "SiteFInityWebApp\\Mvc\\Models\\FlightDataModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:15:47.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LaunchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\ViewModels\\LaunchViewModel.cs",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\Mvc\\ViewModels\\LaunchViewModel.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\ViewModels\\LaunchViewModel.cs",
+              "RelativeToolTip": "SiteFInityWebApp\\Mvc\\ViewModels\\LaunchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:17:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\Views\\FlightData\\Index.cshtml",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\Mvc\\Views\\FlightData\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Mvc\\Views\\FlightData\\Index.cshtml",
+              "RelativeToolTip": "SiteFInityWebApp\\Mvc\\Views\\FlightData\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T06:24:08.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataConfig.config",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\App_Data\\Sitefinity\\Configuration\\DataConfig.config",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\App_Data\\Sitefinity\\Configuration\\DataConfig.config",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\App_Data\\Sitefinity\\Configuration\\DataConfig.config",
+              "RelativeToolTip": "SiteFInityWebApp\\App_Data\\Sitefinity\\Configuration\\DataConfig.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-03T09:46:39.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sample.extensions.bundle.js",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\AdminApp\\sample.extensions.bundle.js",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\AdminApp\\sample.extensions.bundle.js",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\AdminApp\\sample.extensions.bundle.js",
+              "RelativeToolTip": "SiteFInityWebApp\\AdminApp\\sample.extensions.bundle.js",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T10:04:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RazorGeneratorMvcStart.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\App_Start\\RazorGeneratorMvcStart.cs",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\App_Start\\RazorGeneratorMvcStart.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\App_Start\\RazorGeneratorMvcStart.cs",
+              "RelativeToolTip": "SiteFInityWebApp\\App_Start\\RazorGeneratorMvcStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:58:02.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AzureWebRole.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\AzureWebRole.cs",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\AzureWebRole.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\AzureWebRole.cs",
+              "RelativeToolTip": "SiteFInityWebApp\\AzureWebRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:39:04.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\sitefinityAdminEXT\\sitefinity-admin-app-extensions\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\sitefinityAdminEXT\\sitefinity-admin-app-extensions\\package.json",
+              "ToolTip": "C:\\Users\\paul\\source\\sitefinityAdminEXT\\sitefinity-admin-app-extensions\\package.json",
+              "RelativeToolTip": "..\\..\\sitefinityAdminEXT\\sitefinity-admin-app-extensions\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T08:18:02.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\packages.config",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\packages.config",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\packages.config",
+              "RelativeToolTip": "SiteFInityWebApp\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T08:32:05.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "grid-alert.html",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-alert.html",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-alert.html",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-alert.html",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-alert.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-07T06:38:59.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Web.config",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\Web.config",
+              "RelativeToolTip": "SiteFInityWebApp\\Web.config",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwHwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-03T10:03:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Card.Simple.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Simple.cshtml",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Simple.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Simple.cshtml",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Custom\\MVC\\Views\\Card\\Card.Simple.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T09:44:17.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "grid-9\u002B3.html",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Bootstrap5\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-09T07:59:02.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "grid-9\u002B3.html",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Bootstrap4\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "RelativeDocumentMoniker": "SiteFInityWebApp\\ResourcePackages\\Bootstrap4\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\SiteFInityWebApp\\SiteFInityWebApp\\ResourcePackages\\Bootstrap4\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "RelativeToolTip": "SiteFInityWebApp\\ResourcePackages\\Bootstrap4\\GridSystem\\Templates\\grid-9\u002B3.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-09T07:59:05.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

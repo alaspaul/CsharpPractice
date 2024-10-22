@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|c:\\users\\paul\\source\\repos\\modelvalidationpractice\\modelvalidationpractice\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|solutionrelative:modelvalidationpractice\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|c:\\users\\paul\\source\\repos\\modelvalidationpractice\\modelvalidationpractice\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|solutionrelative:modelvalidationpractice\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|c:\\users\\paul\\source\\repos\\modelvalidationpractice\\modelvalidationpractice\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|solutionrelative:modelvalidationpractice\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|c:\\users\\paul\\source\\repos\\modelvalidationpractice\\modelvalidationpractice\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|solutionrelative:modelvalidationpractice\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|c:\\users\\paul\\source\\repos\\modelvalidationpractice\\modelvalidationpractice\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|solutionrelative:modelvalidationpractice\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|c:\\users\\paul\\source\\repos\\modelvalidationpractice\\modelvalidationpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC7617-613A-4622-8FC9-9D6BC90CB063}|ModelValidationPractice\\ModelValidationPractice.csproj|solutionrelative:modelvalidationpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "ModelValidationPractice\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "ModelValidationPractice\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:07:21.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ModelValidationPractice\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\Models\\Person.cs",
+              "RelativeToolTip": "ModelValidationPractice\\Models\\Person.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:05:20.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinimumYearValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "ModelValidationPractice\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeToolTip": "ModelValidationPractice\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:42:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateRangeValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "ModelValidationPractice\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "RelativeToolTip": "ModelValidationPractice\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:33:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonModelBinder.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeDocumentMoniker": "ModelValidationPractice\\CustomModelBinders\\PersonModelBinder.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeToolTip": "ModelValidationPractice\\CustomModelBinders\\PersonModelBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:29:17.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ModelValidationPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\ModelValidationPractice\\ModelValidationPractice\\Program.cs",
+              "RelativeToolTip": "ModelValidationPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:03:53.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

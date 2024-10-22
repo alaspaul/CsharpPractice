@@ -1,0 +1,10 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    if(ViewBag.ProductId > 5)
+    {
+        Layout = null;
+    }
+}
+<h1>Search Products</h1>
+<p>Product Searched</p>
